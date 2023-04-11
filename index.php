@@ -170,7 +170,7 @@
             <input type="email" name="email" id="email" placeholder="Votre adresse e-mail" required>
           </div>
           <div class="input-box">
-            <!--<input type="number" name="phone" id="phone" placeholder="Numéro de téléphone">-->
+            <input type="number" name="phone" id="phone" placeholder="Numéro de téléphone">
             <input type="text" name="subject" id="subject" placeholder="Objet de votre message" required>
           </div>
           <textarea name="message" id="message" cols="30" rows="10" placeholder="Votre message" required></textarea>
