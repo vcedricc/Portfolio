@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     // Vérification du nom
     if (!empty($_POST["name"])) {
-      $name = filter_var($_POST["name"], FILTER_SANITIZE_STRING);
+      $name = filter_var($_POST["from_name"], FILTER_SANITIZE_STRING);
       if (!preg_match("/^[a-zA-Z ]*$/",$name)) {
         $name_error = "Seuls les lettres et les espaces sont autorisés";
       }
@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     // Vérification de l'email
     if (!empty($_POST["email"])) {
-      $email = filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
+      $email = filter_var($_POST["from_email"], FILTER_SANITIZE_EMAIL);
       if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $email_error = "L'adresse email est invalide";
       }
@@ -85,12 +85,17 @@ function envoi_mail($name, $email, $phone, $subject, $message){
     $mail->Password = 'bwchfosneiwlcwct';
     $mail->Port = 465;
 
+    $body = 'Identité : '. $name . '<br>'.
+            'E-mail : '. $email . '<br>'.
+            'Téléphone : '. $phone . '<br>'.
+            'Message : '. $message . '<br>';
+
     // Configurer l'e-mail à envoyer
     $mail->setFrom($email, $name);
     $mail->addAddress('varesanocedric@gmail.com','DevCed');
     $mail->isHTML(true);
     $mail->Subject = $subject;
-    $mail->Body = $message;
+    $mail->Body = $body;
     $mail->setLanguage('fr', '/optional/path/to/language/directory/');
 
     // Envoyer l'e-mail
