@@ -4,4 +4,4 @@ html, CSS, JavaSript et PHP
 
 Responsive Project
 
-Client search site (not made for a job)
+Client search site (not made for job search)
