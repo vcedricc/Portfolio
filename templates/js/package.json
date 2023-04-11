@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio de Cédric VARESANO - Developpeur web",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cédric VARESANO",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "vanilla": "^0.0.5"
+  }
+}

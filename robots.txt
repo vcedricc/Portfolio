@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http:/www.devced.net/sitemap.xml
