@@ -55,7 +55,7 @@
             <h2 class="heading">Qui suis-je <span>en quelques mots ?</span></h2>
             <p>Mon parcours ne se limite pas qu'à l'informatique. Avant d'être développeur de site Web, j'ai eu différentes vies professionnelles. J'ai notamment été militaire, agent spécialisé dans la petite enfance, puis clerc de notaire.
             </p>
-            <p>Je me passionne pour la lecture et les arts martiaux. J'ai une vie associative assez soutenue puisque je suis bénévole au sein de la bibliothéque de ma Commune, enseignant en self-defense et Bujinkan Budo Taijutsu (dont je suis titulaire du 4° DAN Japon) et membre du comité d'administration de l'Union Nationale des Combattant du département de la Creuse.
+            <p>Je me passionne pour la lecture et les arts martiaux. J'ai une vie associative assez soutenue puisque je suis bénévole au sein de la bibliothéque de ma Commune, pratiquant de Yoseikan Budo, enseignant en self-defense et Bujinkan Budo Taijutsu (dont je suis titulaire du 4° DAN Japon) et membre du comité d'administration de l'Union Nationale des Combattant du département de la Creuse.
             </p>
             <p>En plus de tout ça, je prends des cours de violon, et à l'occasion, j'aime aussi me poser devant un bon jeu vidéo.
             </p>

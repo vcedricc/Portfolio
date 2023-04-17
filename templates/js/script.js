@@ -237,7 +237,7 @@ ScrollReveal().reveal('.home-img, .home-content p, .about-content, .front-img,',
 /* Multiple text */
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Développeur de site Web', 'Développeur Frontend', 'Intégrateur de site Web'],
+    strings: ['Développeur Web', 'Développeur Frontend', 'Intégrateur Web'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,

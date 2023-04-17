@@ -39,7 +39,7 @@
         <div class="about-content">
           <h2 class="heading">A propos <span>de moi</span></h2>
           <h3>Développeur Frontend</h3>
-          <p>Bienvenue sur mon site dédié à la création de sites Web ! Je suis Cédric Varésano, un développeur passionné et motivé pour réaliser vos projets et ainsi donnez une valeur ajouté à votre entreprise ou association.
+          <p>Bienvenue sur mon site dédié à la création de sites Web ! Je suis Cédric Varésano, un développeur passionné et motivé pour réaliser vos projets et ainsi donner une valeur ajoutée à votre entreprise ou association.
           </p>
           <p>Mon objectif est de travailler en étroite collaboration avec vous afin de comprendre vos besoins et créer un site Web qui réponde à vos attentes. Pour cela, je mets mes compétences à votre disposition pour réaliser un site Web moderne, fonctionnel et personnalisé.
           </p>
