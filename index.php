@@ -99,16 +99,7 @@
 
       <section class="portfolio" id="portfolio">
         <h2 class="heading">Mes derniers <span>projets</span></h2>
-
-        <div class="portfolio-container">
-            <div class="portfolio-box">
-              <img src="./images/unc23.png" alt="Portfolio3">
-              <div class="portfolio-layer">
-                <h4>UNC 23</h4>
-                <p>Conception de site web</p>              </p>
-                <a href="http://unc23.free.fr/" target="_blank"><i class='bx bx-link-external'></i></a>
-              </div>
-            </div>
+          <div class="portfolio-container">
 
             <div class="portfolio-box">
               <img src="./images/musiqueencreuse.png" alt="Portfolio - musiqueencreuse.free.fr">
@@ -116,6 +107,24 @@
               <h4>Lydie Rougeron</h4>
               <p>Conception de site web</p>              
               <a href="http://musiqueencreuse.free.fr/" target="_blank"><i class='bx bx-link-external'></i></a>
+              </div>
+            </div>
+
+            <div class="portfolio-box">
+              <img src="./images/ostaraa.png" alt="Portfolio - www.ostaraa.fr">
+              <div class="portfolio-layer">
+              <h4>Ostaraa</h4>
+              <p>Installation Wordpress (CMS)</p>              
+              <a href="https://www.ostaraa.fr/" target="_blank"><i class='bx bx-link-external'></i></a>
+              </div>
+            </div>
+
+            <div class="portfolio-box">
+              <img src="./images/unc23.png" alt="Portfolio3">
+              <div class="portfolio-layer">
+                <h4>UNC 23</h4>
+                <p>Conception de site web</p>
+                <a href="http://unc23.free.fr/" target="_blank"><i class='bx bx-link-external'></i></a>
               </div>
             </div>
 
@@ -146,14 +155,6 @@
               </div>
             </div>
 
-            <div class="portfolio-box">
-              <img src="./images/portfolio-default.png" alt="Portfolio - default">
-              <div class="portfolio-layer">
-              <h4>En cours de conception</h4>
-              <p></p>
-              <!--<a href="#" target="_blank"><i class='bx bx-link-external'></i></a>-->
-              </div>
-            </div>
         </div>
       </section>
 

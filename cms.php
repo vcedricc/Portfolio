@@ -95,10 +95,10 @@
         <div class="services-container">
 
           <div class="services-box">
-            <img class="opinion-img" src="./images/musiqueencreuse.png" alt="musiqueencreuse">
-            <h3>Lydie Rougeron</h3>
-            <h2>musiqueencreuse.free.fr</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+            <img class="opinion-img" src="./images/kaleidea.png" alt="kaleidea">
+            <h3>Aurélie</h3>
+            <h2>www.kaleidea.fr</h2>
+            <p>Merci Cédric pour ta patience et ton professionnalisme. Ce n'est pas toujours simple d'expliquer à l'autre ce que l'on souhaite. Mais Cédric a su parfaitement mettre en forme mes envies et me créer un site qui aujourd'hui est référençable et protégé. Merci beaucoup pour tout le temps consacré à la réalisation de mon site internet. Une grande épine en moins pour moi. Je recommande à 100%.
             </p>
           </div>
 
